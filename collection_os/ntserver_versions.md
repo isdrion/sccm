@@ -1,4 +1,6 @@
-  | Name   |      Version      |
+
+| Name   |      Version      |
+| --- | ---|
   | Windows Server 2003 |   5.2 | 
   | Windows Server 2008 |   6.0 | 
   | Windows Server 2008 |   6.1 | 
